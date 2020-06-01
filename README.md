@@ -14,3 +14,5 @@ There are 6 scenarios :
 6. Spreading with 30% movement, recovery and deaths at 11% rate.
 
 What we need to observe is that what is the outcome after same period of time. At 100% movement all 11% die which are randomly chosen among all the particle, whereas at 30% movement only 4 particles die.
+
+Visulaizations are made using Python3 and libraries like matplotlib, numpy, animation, pyplot, etc.
