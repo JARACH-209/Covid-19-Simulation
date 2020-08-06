@@ -1,5 +1,5 @@
 # Covid-19-Simulation
-by Achal Dixit (JARACH_2.0.9)
+
 Corona Virus (COVID-19) spreading simulation in a close community with mathematical scaling and probability scaled according to the spread of infection, revovery and deaths.
 
 Simulations are available on youtube and Linkedin in form of a video.
