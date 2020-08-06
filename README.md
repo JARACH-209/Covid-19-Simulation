@@ -2,8 +2,10 @@
 
 Corona Virus (COVID-19) spreading simulation in a close community with mathematical scaling and probability scaled according to the spread of infection, revovery and deaths.
 
-Simulations are available on youtube and Linkedin in form of a video.
+Simulations are available on youtube and Linkedin in form of a video. 
+
 Youtube  : https://youtu.be/3WJU6aZyeLg
+
 LinkedIn : https://www.linkedin.com/posts/achaldixit22_socialdistancing-quarantine-coronavirus-activity-6649638030665711616-9c3S
 
 Simulated visualisations showing the spreading of COVID-19 under different scenarios based on Random Walks.
