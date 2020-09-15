@@ -9,7 +9,7 @@ Simulations are available on youtube and Linkedin in form of a video.
 **LinkedIn** : https://www.linkedin.com/posts/achaldixit22_socialdistancing-quarantine-coronavirus-activity-6649638030665711616-9c3S
 
 Simulated visualisations showing the spreading of COVID-19 under different scenarios based on Random Walks.
-*There are 6 scenarios : 
+There are 6 scenarios : 
   1. Spreading with 100% movement and no recovery.
   2. Spreading with 100% movement and recovery.
   3. Spreading with 100% movement, recovery and deaths at 11% rate.
