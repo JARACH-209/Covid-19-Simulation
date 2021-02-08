@@ -21,6 +21,6 @@ What we need to observe is that what is the outcome after same period of time. A
 
 Visulaizations are made using Python3 and libraries like matplotlib, numpy, animation, pyplot, etc.
 
-![alt text](https://github.com/JARACH-209/Covid-19-Simulation/blob/master/Snapshot.jpg)
+
 
 **Author : Achal Dixit | Jarach_2.0.9**
